@@ -1,0 +1,73 @@
+/* write your carousel css in this file */ 
+  .style{
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    top: 8%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 0.5rem;
+    height: 10vh;
+    left: 43%;
+    right: 43%;
+  }
+  
+  .style2{
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    bottom: 8%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 0.5rem;
+    height: 15vh;
+    width: 25vw;
+    align-content: center;
+    margin-left: 5%;
+    margin-right: 0%;
+  }
+  
+  .click2{
+    height: 90.2vh;
+    width: 7vw;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 27.4%;
+    top: 4.6%;
+    color: white;
+  }
+  
+  .click{
+    height: 90.2vh;
+    width: 7vw;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 27.4%;
+    top: 4.6%;
+    color: white;
+  }
+  
+  .back{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    color: white;
+  }
+  
+  .for{
+    position: absolute;
+    top: 50%;
+    right: 35%;
+    color: white;
+  }
+  
+  .img{
+    height: 90vh;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
